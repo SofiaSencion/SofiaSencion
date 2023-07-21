@@ -1,7 +1,13 @@
 ### Hi there 👋
 
-  <img src="https://static.vecteezy.com/system/resources/previews/004/290/358/non_2x/woman-doing-coding-free-vector.jpg"  title="codingGirl" alt="codingGirl" width="480" height="auto"/>&nbsp;
+<p>I'm Sofia Sención, an aspiring Jr. Web Developer with a passion for crafting seamless web experiences. With attention to detail and problem-solving skills, I tackle coding challenges creatively. My versatility allows me to explore various technologies, ensuring pixel-perfect designs and intuitive interfaces.
 
+Let's connect and code together! 🚀😊</p>
+
+<img src="https://static.vecteezy.com/system/resources/previews/004/290/358/non_2x/woman-doing-coding-free-vector.jpg"  title="codingGirl" alt="codingGirl" width="480" height="auto"/>&nbsp;
+
+
+<H2>Languages and Tools</H2>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg"  title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
