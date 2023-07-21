@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-  <img src="https://giphy.com/gifs/Pluralsight-computer-technology-coding-L1R1tvI9svkIWwpVYr"  title="codingGirl" alt="codingGirl" width="480" height="270"/>&nbsp;
+  <img src="https://static.vecteezy.com/system/resources/previews/004/290/358/non_2x/woman-doing-coding-free-vector.jpg"  title="codingGirl" alt="codingGirl" width="480" height="270"/>&nbsp;
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg"  title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
