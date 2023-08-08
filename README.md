@@ -4,7 +4,7 @@
 
 Let's connect and code together! 🚀😊</p>
 
-/*<img src="https://static.vecteezy.com/system/resources/previews/004/290/358/non_2x/woman-doing-coding-free-vector.jpg"  title="codingGirl" alt="codingGirl" width="480" height="auto"/>&nbsp;*/
+<!--<img src="https://static.vecteezy.com/system/resources/previews/004/290/358/non_2x/woman-doing-coding-free-vector.jpg"  title="codingGirl" alt="codingGirl" width="480" height="auto"/>&nbsp;-->
 
 
 <H2>Languages and Tools</H2>
